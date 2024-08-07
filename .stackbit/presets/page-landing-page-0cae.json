@@ -1,0 +1,290 @@
+{
+    "model": "page",
+    "srcType": "sanity",
+    "srcProjectId": "488k4sdn",
+    "presets": [
+        {
+            "label": "Landing page",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "pages"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Home",
+                "slug": "/",
+                "sections": [
+                    {
+                        "$$type": "heroSection",
+                        "heading": "Revolutionise Your Business with AI-Powered Solutions - made a change here!",
+                        "body": "At **AI Company**, we believe in the transformative power of artificial intelligence. Our cutting-edge AI solutions are designed to elevate your business operations, enhance decision-making, and drive unprecedented growth.\n",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Request demo",
+                                "url": "/",
+                                "ariaLabel": null,
+                                "theme": "accent"
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-ad2949807a385f86231fe318b780cba2179c3f76-1600x900-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 40
+                        },
+                        "width": "inset"
+                    },
+                    {
+                        "$$type": "cardsSection",
+                        "heading": "Why Choose Us?",
+                        "body": "Experience the Future of Business with Our Cutting-Edge AI Solutions.\n",
+                        "items": [
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "PERFORMANCE",
+                                    "theme": "accent"
+                                },
+                                "heading": "State-of-the-Art Technology",
+                                "body": "At **AI Company**, we pride ourselves on leveraging the latest advancements in **artificial intelligence** and **machine learning**. Our research and development team is constantly innovating to bring you cutting-edge solutions that keep you ahead of the competition.\n",
+                                "cta": [
+                                    {
+                                        "$$type": "actionLink",
+                                        "label": "Learn more",
+                                        "url": "/",
+                                        "ariaLabel": null
+                                    }
+                                ],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-738bd4c74451236169ced4c49094b140ed4e207c-860x460-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "EXPAND",
+                                    "theme": "primary"
+                                },
+                                "heading": "Scalable Solutions",
+                                "body": "Whether you're a small startup or a large enterprise, our AI solutions are designed to scale with your business. We ensure that as your business evolves, our tools can seamlessly adapt, providing continuous improvements and enhancements to meet your ever-changing requirements.\n",
+                                "cta": [
+                                    {
+                                        "$$type": "actionLink",
+                                        "label": "Learn more",
+                                        "url": "/",
+                                        "ariaLabel": null
+                                    }
+                                ],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-f1026fcdccde3485090d05b0bab00cb486b85e13-860x460-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": {
+                                    "$$type": "badge",
+                                    "label": "EMPOWER",
+                                    "theme": "secondary"
+                                },
+                                "heading": "User-Friendly Interface",
+                                "body": "We understand that not everyone is a tech expert, which is why our platforms are designed with user-friendliness in mind. Our intuitive dashboards and simple navigation make it easy for both technical and non-technical users to harness the power of AI.\n",
+                                "cta": [
+                                    {
+                                        "$$type": "actionLink",
+                                        "label": "Learn more",
+                                        "url": "/",
+                                        "ariaLabel": null
+                                    }
+                                ],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-10d4766279c02579a966a64d5637621d06b45a8e-860x460-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "columns": null
+                    },
+                    {
+                        "$$type": "logosSection",
+                        "heading": "Award winning enterprises trust us",
+                        "body": "Recognized excellence.\n",
+                        "items": [
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-409c8299ef6340af8b49f7de840210d2260d1abd-130x144-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Unilever logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-399255f770e4ce2901e20bf41c975a8c5cec9766-130x36-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Riot Games logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-eb987c24742a7c0b96430ccc89b1f4f618f4ad77-130x129-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Mattel"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-f5475c45fb1cf4735e70374e42b52519a9e90249-130x44-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Google"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-81937d8913ce3354c25a9cd3d4ea227a8a340612-130x44-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Peloton"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-ca16cfc4b71cdd10edde06eb0dc37d56e893696b-119x37-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Twilio"
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "motion": null
+                    },
+                    {
+                        "$$type": "testimonialsSection",
+                        "heading": "What our clients are saying",
+                        "body": "Trusted by small and large businesses.\n",
+                        "items": [
+                            {
+                                "$$type": "testimonial",
+                                "quote": "\"The customer service team at AI Company is top-notch. They helped us every step of the way, and the results speak for themselves – our sales have increased by 50%!\"\n",
+                                "author": {
+                                    "$$ref": "lMC8MEWpxDQXIr8jKbBsuP",
+                                    "$$type": "person"
+                                },
+                                "theme": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "\"From the seamless integration to the exceptional results, AI Company Name has exceeded our expectations in every way. We highly recommend their AI solutions.\"\n",
+                                "author": {
+                                    "$$ref": "fdc1ae6e-2f0d-4821-8a47-60eeb3fbf40f",
+                                    "$$type": "person"
+                                },
+                                "theme": "light",
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "\"The predictive maintenance tools from AI Company Name have saved us significant time and money by preventing equipment failures. It's an invaluable resource for our operations.\"\n",
+                                "author": {
+                                    "$$ref": "8ysPwHyKiY2JsGjcIjQyYA",
+                                    "$$type": "person"
+                                },
+                                "theme": "light",
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "\"The AI analytics platform has provided us with deep insights into our data, allowing us to make more informed decisions. It's like having a crystal ball for our business.\"\n",
+                                "author": {
+                                    "$$ref": "8ysPwHyKiY2JsGjcIjR0w8",
+                                    "$$type": "person"
+                                },
+                                "theme": null,
+                                "hasBorder": true
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "columns": null
+                    },
+                    {
+                        "$$type": "ctaSection",
+                        "heading": "Ready to try AI Company?",
+                        "body": null,
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Request demo",
+                                "url": "/",
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-e4c9473fc0ff7f3fa23dc3c43e185a1d2a6d3005-1400x600-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 60
+                        },
+                        "width": "inset"
+                    }
+                ],
+                "metaTitle": "Page title",
+                "addTitleSuffix": null,
+                "metaDescription": null,
+                "socialImage": null
+            }
+        }
+    ]
+}
